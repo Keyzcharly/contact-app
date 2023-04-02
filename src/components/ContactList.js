@@ -17,7 +17,7 @@ const ContactList = (props) => {
   })
 
   return (
-    <div className='main' style={{paddingTop: '10%'}}>
+    <div className='main top' style={{paddingTop: '15%'}}>
       <h3>
         Contact List
         <Link to='/add' >
